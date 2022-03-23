@@ -8,7 +8,7 @@ public class exercicio1 {
             if ((num % 2) != 0) {
                 // Verifica se o número é multiplo de 3
                 if ((num % 3) != 0) {
-                     System.out.println(num);
+                     System.out.println(soma);
         }
     }
 }    
